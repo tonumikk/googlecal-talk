@@ -6,7 +6,7 @@ Using Google Calendar API and Google OAuth
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Lessons learned.
 @snapend
 
 ---
